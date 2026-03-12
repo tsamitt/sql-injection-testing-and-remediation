@@ -28,10 +28,6 @@ The project also documents how SQL injection vulnerabilities can be remediated u
 - `remediation.md` - Secure development recommendations
 - `lessons-learned.md` - Key takeaways from the project
 
-## Important Note
-
-This project is for educational purposes only. It does not provide exploit tooling or instructions for attacking real systems. The focus is on understanding risk and learning secure development practices.
-
 ## Why This Matters
 
 SQL injection remains one of the most well-known web application security risks. Learning how to recognize and prevent it is important for developers, system analysts, and cybersecurity professionals.
